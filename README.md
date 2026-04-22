@@ -1,3 +1,29 @@
+# Muhammad Arslan Fareed
+### Software Engineering Student · UET Taxila · Batch 24-SE
+
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://www.linkedin.com/in/muhammadarslanfareed)
+[
+
+![Portfolio](https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=firefox&logoColor=black)
+
+](https://rslaanfareed.github.io)
+[
+
+![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:arslanfareed5520@gmail.com)
+[
+
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+
+](https://wa.me/923115273393)
+
+---
+
 <div align="center">
 
 # Muhammad Arslan Fareed
