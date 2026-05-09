@@ -24,7 +24,6 @@
 | JavaFX Grocery Store Manager | Java, JavaFX, CSS | [Repo](https://github.com/rslaanfareed/JavaFx_GroceryStoreManager) |
 | Ride Booking System | Java, Swing | [Repo](https://github.com/rslaanfareed/RideBookingSystem) |
 | Handwritten Digit Recognition | Python, ML | [Repo](https://github.com/rslaanfareed/digit-recognizer) |
-| Grocery Store Manager | C++, OOP | [Repo](https://github.com/rslaanfareed/Grocery_store_manager) |
 | School Management System | Java, OOP | [Repo](https://github.com/rslaanfareed/School_Management_System_Console_Based) |
 | Skill Exchange Platform DB | Oracle SQL | [Repo](https://github.com/rslaanfareed/Skill_Exchange_Platform) |
 
