@@ -1,8 +1,9 @@
+<div align="center">
 # Muhammad Arslan Fareed
 ### Software Engineering Student · UET Taxila · Batch 24-SE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadarslanfareed) [![Portfolio](https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=firefox&logoColor=black)](https://rslaanfareed.github.io) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanfareed5520@gmail.com)
-
+</div>
 ---
 
 ### About Me
@@ -10,7 +11,7 @@
 4th Semester SE student at **UET Taxila**. I build desktop apps, ML models, and backend systems in Java, Python, and C++. Currently focused on machine learning.
 
 ---
-
+<div align="center">
 ### Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
@@ -18,9 +19,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Oracle](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+</div>
 ---
-
+<div align="center">
 ### Featured Projects
 
 | Project | Tech | Link |
@@ -31,7 +32,7 @@
 | Handwritten Digit Recognition | Python, ML | [Repo](https://github.com/rslaanfareed/digit-recognizer) |
 | School Management System | Java, OOP | [Repo](https://github.com/rslaanfareed/School_Management_System_Console_Based) |
 | Skill Exchange Platform DB | Oracle SQL | [Repo](https://github.com/rslaanfareed/Skill_Exchange_Platform) |
-
+</div>
 ---
 
 ![Snake animation](https://github.com/rslaanfareed/rslaanfareed/blob/output/github-contribution-grid-snake.svg)
