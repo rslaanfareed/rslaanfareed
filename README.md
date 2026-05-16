@@ -1,7 +1,7 @@
 <div align="center">
 
 # Muhammad Arslan Fareed
-### Software Engineering Student · UET Taxila · Batch 24-SE
+### Software Engineering Student · UET Taxila · 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadarslanfareed) [![Portfolio](https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=firefox&logoColor=black)](https://rslaanfareed.github.io) 
 
@@ -11,7 +11,7 @@
 
 ### About Me
 
-4th Semester SE student at **UET Taxila**. I build desktop apps, ML models, and backend systems in Java, Python, and C++. Currently focused on machine learning.
+SE student at **UET Taxila**. I build desktop apps, ML models, and backend systems in Java, Python, and C++. Currently focused on machine learning.
 
 ---
 
