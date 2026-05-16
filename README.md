@@ -1,9 +1,12 @@
 <div align="center">
+
 # Muhammad Arslan Fareed
 ### Software Engineering Student · UET Taxila · Batch 24-SE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadarslanfareed) [![Portfolio](https://img.shields.io/badge/Portfolio-00e5ff?style=for-the-badge&logo=firefox&logoColor=black)](https://rslaanfareed.github.io) [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arslanfareed5520@gmail.com)
+
 </div>
+
 ---
 
 ### About Me
@@ -11,17 +14,19 @@
 4th Semester SE student at **UET Taxila**. I build desktop apps, ML models, and backend systems in Java, Python, and C++. Currently focused on machine learning.
 
 ---
+
 <div align="center">
+
 ### Tech Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Oracle](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 </div>
+
 ---
+
 <div align="center">
+
 ### Featured Projects
 
 | Project | Tech | Link |
@@ -32,13 +37,14 @@
 | Handwritten Digit Recognition | Python, ML | [Repo](https://github.com/rslaanfareed/digit-recognizer) |
 | School Management System | Java, OOP | [Repo](https://github.com/rslaanfareed/School_Management_System_Console_Based) |
 | Skill Exchange Platform DB | Oracle SQL | [Repo](https://github.com/rslaanfareed/Skill_Exchange_Platform) |
+
 </div>
+
 ---
 
 ![Snake animation](https://github.com/rslaanfareed/rslaanfareed/blob/output/github-contribution-grid-snake.svg)
 
-
-##  GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rslaanfareed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4" width="48%" />
@@ -49,12 +55,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rslaanfareed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B" width="45%" />
 </p>
 
-<!--- Activity Graph --->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rslaanfareed&theme=react-dark&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFD700&area=true&hide_border=true" width="95%" />
 </p>
 
-<!--- GitHub Trophy --->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rslaanfareed&theme=radical&no-frame=true&row=1&column=6" width="90%" />
 </p>
