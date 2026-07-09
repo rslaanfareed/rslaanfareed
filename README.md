@@ -47,13 +47,11 @@ SE student at **UET Taxila**. I build desktop apps, ML models, and backend syste
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rslaanfareed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4" width="48%" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rslaanfareed&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF6B6B&ring=4ECDC4&fire=FFD700&currStreakNum=FFFFFF" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rslaanfareed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF6B6B" width="45%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rslaanfareed&theme=react-dark&bg_color=0D1117&color=4ECDC4&line=FF6B6B&point=FFD700&area=true&hide_border=true" width="95%" />
