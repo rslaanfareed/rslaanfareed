@@ -36,7 +36,7 @@ SE student at **UET Taxila**. I build desktop apps, ML models, and backend syste
 | Employee Management System | Python, SQL | [Repo](https://github.com/rslaanfareed/Employee_management_system) |
 | Handwritten Digit Recognition | Python, ML | [Repo](https://github.com/rslaanfareed/digit-recognizer) |
 | School Management System | Java, OOP | [Repo](https://github.com/rslaanfareed/School_Management_System_Console_Based) |
-| Skill Exchange Platform DB | Oracle SQL | [Repo](https://github.com/rslaanfareed/Skill_Exchange_Platform) |
+| SkillSwap | Oracle SQL | [Repo](https://github.com/rslaanfareed/SkillSwap) |
 
 </div>
 
