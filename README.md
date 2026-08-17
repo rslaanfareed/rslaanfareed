@@ -25,22 +25,6 @@ SE student at **UET Taxila**. I build desktop apps, ML models, and backend syste
 
 ---
 
-<div align="center">
-
-### Featured Projects
-
-| Project | Tech | Link |
-|---|---|---|
-| JavaFX Grocery Store Manager | Java, JavaFX, CSS | [Repo](https://github.com/rslaanfareed/JavaFx_GroceryStoreManager) |
-| Ride Booking System | Java, Swing | [Repo](https://github.com/rslaanfareed/RideBookingSystem) |
-| Employee Management System | Python, SQL | [Repo](https://github.com/rslaanfareed/Employee_management_system) |
-| Handwritten Digit Recognition | Python, ML | [Repo](https://github.com/rslaanfareed/digit-recognizer) |
-| School Management System | Java, OOP | [Repo](https://github.com/rslaanfareed/School_Management_System_Console_Based) |
-| SkillSwap | Oracle SQL | [Repo](https://github.com/rslaanfareed/SkillSwap) |
-
-</div>
-
----
 
 ![Snake animation](https://github.com/rslaanfareed/rslaanfareed/blob/output/github-contribution-grid-snake.svg)
 
