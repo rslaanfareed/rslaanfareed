@@ -11,7 +11,7 @@
 
 ### About Me
 
-SE student at **UET Taxila**. I build desktop apps, ML models, and backend systems in Java, Python, and C++. Currently focused on machine learning.
+Software Engineering student at **UET Taxila**, focused on AI and Machine Learning with Python.
 
 ---
 
