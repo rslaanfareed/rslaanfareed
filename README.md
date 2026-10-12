@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&pause=9999&color=A855F7&center=true&vCenter=true&width=700&height=100&lines=Muhammad+Arslan+Fareed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&pause=9999&color=A855F7&center=true&vCenter=true&width=750&height=100&lines=Muhammad+Arslan+Fareed)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=22&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Aspiring+AI+%2F+ML+Engineer;SE+Student+%40+UET+Taxila;Python+%7C+Deep+Learning+%7C+Neural+Nets)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=22&pause=1000&color=4ECDC4&center=true&vCenter=true&width=700&lines=Aspiring+AI+%2F+ML+Engineer;SE+Student+%40+UET+Taxila;Python+%7C+Deep+Learning+%7C+Neural+Nets)](https://git.io/typing-svg)
 
 <br/>
 
@@ -12,9 +12,9 @@
 
 </div>
 
----
+<br/>
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ### About Me
 
@@ -24,26 +24,33 @@
 - Building desktop apps in **Java & JavaFX**
 - Goal: **AI/ML Engineer**
 
-<br/><br/><br/>
+<br clear="all"/>
 
----
+<br/>
 
 <div align="center">
 
 ### Tech Stack
 
-#### AI / ML
+**AI / ML**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-#### Languages
+<br/>
+
+**Languages**
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaFX](https://img.shields.io/badge/JavaFX-2C2255?style=for-the-badge&logo=java&logoColor=white)
 
-#### Database & Tools
+<br/>
+
+**Database & Tools**
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -60,7 +67,7 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -75,7 +82,7 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -83,11 +90,13 @@
 
 ![Snake animation](https://github.com/rslaanfareed/rslaanfareed/blob/output/github-contribution-grid-snake.svg)
 
+<br/>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rslaanfareed&theme=react-dark&bg_color=0D1117&color=A855F7&line=4ECDC4&point=FFD700&area=true&hide_border=true" width="95%" />
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
@@ -97,7 +106,7 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
